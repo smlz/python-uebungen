@@ -68,4 +68,4 @@ _Tipp_: Berechne zuerst die Anzahl Tage im aktuellen Kalenderjahr und die Anzahl
 
 Ignoriere dabei, dass Schaltjahre einen Tag mehr haben, und rechne zur Vereinfachung für die Monate immer mit 30 Tagen. Das Resultat ist zwar immer noch nicht perfekt, aber kommt der Realität schon bedeutend näher.
 
-Wir sehen, Datumsberechnungen sind erstaunlich kompliziert. Und auch selbst wenn man die richtige Anzahl Tage pro Monat sowie auch die Schaltjahre korrekt berücksichtigt, ist das Resultat immer noch nicht zu hundert Prozent korrekt: [Stichwort Schaltsekunde](https://en.wikipedia.org/Leap_seconds).
+Wir sehen, Datumsberechnungen sind erstaunlich kompliziert. Und auch selbst wenn man die richtige Anzahl Tage pro Monat sowie auch die Schaltjahre korrekt berücksichtigt, ist das Resultat immer noch nicht zu hundert Prozent korrekt: [Stichwort Schaltsekunde](https://de.wikipedia.org/wiki/Schaltsekunde).
