@@ -15,11 +15,17 @@ Wenn das Programm aufgerufen wird, könnte das beispielsweise so aussehen (Benut
 
 ---
 Hallo und Wilkommen zum Altersberechungstool!
+
 Wie alt bist du? **18**
+
 Also wenn ich das richtig verstehe, ist dein Alter in Tagen zirka:
+
 6570
+
 und in Studen wären das:
+
 157680
+
 Vielen Dank und auf Wiedersehen
 
 ---
@@ -34,11 +40,15 @@ Das Geburtsdatum können wir abfrage, zum Beispiel so:
 
 ---
 Hallo und Wilkommen zum Altersberechungstool!
+
 In welchem Jahr bist du geboren? **2002**
+
 In welchem Monat bist du geboren (in Zahlen)? **5**
+
 An welchem Tag im Monat bist du geboren? **7**
 
 Also wenn ich das richtig verstehe, ist dein Alter in Tagen zirka:
+
 ...
 
 ---
