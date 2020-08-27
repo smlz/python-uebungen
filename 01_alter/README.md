@@ -13,7 +13,7 @@ Erstellt dazu zuerst eine neue Datei mit dem Namen `alter.py`.
 
 Wenn das Programm aufgerufen wird, könnte das beispielsweise so aussehen (Benutzereingaben sind fett geschrieben): 
 
-> Hallo und Wilkommen zum Altersberechungstool!
+> Hallo und Willkommen zum Altersberechungstool!
 >
 > Wie alt bist du? **18**
 >
@@ -21,13 +21,13 @@ Wenn das Programm aufgerufen wird, könnte das beispielsweise so aussehen (Benut
 >
 > 6570
 >
-> und in Studen wären das:
+> und in Stunden wären das:
 >
 > 157680
 >
 > Vielen Dank und auf Wiedersehen
 
-Falls du Schwierigkeiten haben solltes, findest du in der Datei [`vorlage_alter.py`](vorlage_alter.py) eine Vorlage, welche eine grobe Struktur des Programms skizziert.
+Falls du Schwierigkeiten haben solltest, findest du in der Datei [`vorlage_alter.py`](vorlage_alter.py) eine Vorlage, welche eine grobe Struktur des Programms skizziert.
 
 ## Freiwilliger Zusatzauftrag
 
@@ -35,7 +35,7 @@ Das Ganze ist noch recht ungenau, da wir das genaue Geburtsdatum und auch welche
 
 Das Geburtsdatum können wir abfrage, zum Beispiel so:
 
-> Hallo und Wilkommen zum Altersberechungstool!
+> Hallo und Willkommen zum Altersberechungstool!
 >
 > In welchem Jahr bist du geboren? **2002**
 >
