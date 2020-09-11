@@ -39,6 +39,6 @@ Eine mögliche Skizze des Games könnte beispilsweise so aussehen:
 
 
 Tipps:
-* Mit der Funktion `exit()` kannst du das Programm jederzeit beenden.
+* Mit der Funktion `exit()` kannst du das Programm beenden.
 * Mit der Funktion `random.randint()`, welche du schon beim Beispiel mit dem Grosi gesehen hast, kannst du im Spiel auch den Zufall spielen lassen. Zum Beispiel, ob man einen Kampf gewinnt oder nicht.
 * Auch mit nur Text lassen sich Grafiken basteln. Beispiele findest du ganz viele im Web, wenn du zum Beispiel nach dem Begriff "_asciiart_" suchst. Du kannst auch grossen Text in speziellen Schriftarten generieren: http://patorjk.com/software/taag/#p=display&f=Slant&t=GymNeufeld

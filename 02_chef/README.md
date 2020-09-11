@@ -4,7 +4,7 @@ Schreibe ein Program eines hässigen Chefs welcher in unfreundlichem Ton fragt, 
 
 WAS MEINST DU MIT "ICH MÖCHTE GERNE 5 MINUTEN PAUSE MACHEN"?!? DU BIST GEFEUERT!
 
-Erstelle dazu die Datei `chef.py`.
+Erstelle dazu eine Datei `chef.py`.
 
 Hier ein Beispiel für einen Aufruf (Benutzereingaben sind fett geschreiben):
 
