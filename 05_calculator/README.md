@@ -85,11 +85,19 @@ __Aufgabe:__ Überprüfe den Algorithmus mit Stift und Papier mit deinen beiden 
 8. Schreiben den Code um mit einer möglichen Benutzerin deines Programmes zu interagieren. So könnt eine Aufruf zum Beispiel aussehen:
 
     > Guten Tag zum Rechner. Bitte gib mir eine Rechnung (X um zu beenden).
+    >
     > \> __1 1 +__
+    >
     > 2
+    >
     > \> __2 3 *__
+    >
     > 6
+    >
     > \> __4 1 - 3 *__
+    >
     > 9
+    >
     > \> x
+    >
     > Auf wiedersehen!
