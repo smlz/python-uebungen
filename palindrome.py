@@ -23,10 +23,12 @@ def palindrome(word):
     # sicher kein Palindrom.
     # Wir können also hier an dieser Stelle die definitive Antwort geben.
 
+    # Tipp: Erster Buchstabe word[0], letzter Buchstabe word[-1]
 
     # FIXME: Das Wort ist weder garantiert ein Palindrom (weil kurz), noch garantiert kein Palindrom
     # (weil Enden nicht übereinstimmen). Was ist mit der Mitte des Wortes?
 
+    # Tipp: Mitte ausschneiden word[1:-1]
 
     
 if __name__ == "__main__":
